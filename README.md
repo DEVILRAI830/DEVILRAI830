@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Vansh Rai  
 
-- 🎓 Student | Aspiring **Data Analyst & AI/ML Engineer**  
+- 🎓 Student | Aspiring **Data Analyst & AI/ML Engineer**
+- 📊 Strong in **Java & DSA** (Data Structures and algorithms)   
 - 📊 Strong in **SQL** (Data Warehousing, ETL, Analytics)  
 - 🐍 Using **Python** for data analysis and ML  
 - 📈 Skilled in **Excel & Power BI** for reporting and dashboards  
@@ -10,16 +11,19 @@
 ---
 
 ### 🛠 Skills  
+- **Java**   
+- **DSA** | Arrays | Trees | LinkedLists etc  
 - **SQL** | Data Cleaning | ETL Pipelines  
 - **Python** | Pandas | NumPy  
 - **Excel** | Power BI | Data Visualization  
 - **Machine Learning** | Basics  
 - **Deep Learning** | Fundamentals  
-- **Git & GitHub**
+- **GitHub**
 
 ---
 
 ### 🌱 Currently Learning  
+- Spring Boot 
 - Advanced Excel  
 - Power BI  
 - Machine Learning & Deep Learning  
